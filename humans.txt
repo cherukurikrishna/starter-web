@@ -11,5 +11,10 @@
 
 # TECHNOLOGY COLOPHON
 
+<<<<<<< HEAD
     HTML5, CSS3
-    jQuery, Modernizr, krishna
+    jQuery, Modernizr
+=======
+    HTML5, CSS3
+    jQuery, Modernizr
+>>>>>>> b2db7c5 (added conflits in devlop)
